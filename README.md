@@ -2,7 +2,7 @@
 
   Aprenda como criar arquivos MS word utilizando Java.
 
- Criaremos 2 exemplos. Um básico com os conceitos de criacão de arquivos e um exemplo que criar um relatório de compras
+ Criaremos 2 exemplos. Um básico com os conceitos de criação de arquivos e um exemplo que criar um relatório de compras
 contendo a lista de produtos comprados.
   
 ## Tecnologias
@@ -10,5 +10,10 @@ contendo a lista de produtos comprados.
 - [Java 11](https://youtu.be/_NCt_82M0MA)
 - [Maven](https://youtu.be/edF1G8RYDTU)
 - [Apache POI](https://poi.apache.org/)
+
+## Exemplo
+
+![AcademicNet](ExemploRelatorioCompra.png)
+
 
 ## Link do vídeo

@@ -2,9 +2,9 @@
 
   Aprenda como criar arquivos MS word utilizando Java.
 
- Criaremos 2 exemplos. 
-    - Um básico com os conceitos de criação de arquivos 
-    - Outro que cria um relatório de compras contendo a lista de produtos comprados.
+ Criaremos 2 exemplos:
+- Um básico com os conceitos de criação de arquivos 
+- Outro que cria um relatório de compras contendo a lista de produtos.
   
 ## Tecnologias
 

@@ -17,6 +17,6 @@
 ![java-word](ExemploRelatorioCompra.png)
 
 
-## 📺 Link do vídeos
+## 📺 Link dos vídeos
 
  [Apache POI para iniciantes Word tutorial](https://youtu.be/JxTM7-WA3fE)
